@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+.env
+.idea/
+.DS_Store
+*.log
+
+data/data_new.csv
+data/candidate_companies.csv
+data/candidate_companies_simple.csv
+cat_results_async.csv
+cat_companies.csv
